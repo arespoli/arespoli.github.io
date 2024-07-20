@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://arespoli.github.io/sitemap
+Sitemap: https://arespoli.github.io/app/sitemap
+Sitemap: https://arespoli.github.io/assets/sitemap
+Sitemap: https://arespoli.github.io/css/sitemap
+Sitemap: https://arespoli.github.io/includes/sitemap
+Sitemap: https://arespoli.github.io/item/sitemap
+Sitemap: https://arespoli.github.io/src/sitemap
